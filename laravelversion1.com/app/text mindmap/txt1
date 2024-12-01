@@ -1,0 +1,33 @@
+các loại thuộc tính : attribute_catalogues : màu sắc , vật liệu , công suất , lốp , màu sơn , xăng, hiệu năng , km/h . .vv.v.
+các thuộc tính
+
+
+
+phân loại hạng xe : 
+sang , trung , bình dân
+phân loại kiểu hình xe : xe bán tải , xe địa hình , xe đa hình ..  v.. v
+
+
++attribute_Catalogues_langues : đa ngôn ngữ
++attribute_catalogues_Atrribute : quan hệ nhiều nhiều
++attribute _language
+
+quan hệ giưa sản phẩm và thuộc tính 
+
+-product_variant
++id
++prodcut_id
++title
++Sku
++barcode
++price
++album
++publish
++user_id
++file_name:pdf
++file_url:
+
+
+-product_variant_attribute 
++product_variant_id
++product_id
